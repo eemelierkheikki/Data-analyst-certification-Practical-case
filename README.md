@@ -12,4 +12,4 @@ Explore client company's different sales methods and create recommendations on h
 
 Use vizualisations or other methods to prove and communicate your findings.
 
-Determine metrics to follow after implementation.
+Determine metrics to be followed after implementation.
